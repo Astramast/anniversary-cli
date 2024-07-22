@@ -1,0 +1,7 @@
+anniversary doit écrire les anniversaires des X suivants
+anniversary all doit écrire les anniversaires de tous le monde
+anniversary add DATE NAME doit ajouter un anniversaire
+anniversary del DATE NAME doit supprimer un anniversaire
+anniversary mod ODATE ONAME NDATE NNAME doit modifier un anniversaire
+anniversary month doit écrire les anniversaires du mois
+anniversary help affiche l'aide
